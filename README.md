@@ -76,7 +76,7 @@ We combine **real-time mood detection** with **watch-history-based collaborative
 - Clone the repository:
 
 ```bash
-    git clone https://github.com/Voldemort271/cs671-hack.git
+    git clone https://github.com/AliAsgar-Maheshwarwala110/Cine-mood-AI.git
     cd cs671-hack
 ```
 
